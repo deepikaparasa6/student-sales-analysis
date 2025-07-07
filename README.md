@@ -5,7 +5,7 @@ Student Sales Data Analysis — EDA, feature engineering, and visual storytellin
 
 - `student_sales_utu8ah0DC6.csv`: The dataset containing sales records
 - `student_sale_ps_uXrWM9x0jf.pdf`: Task sheet outlining project requirement.
-- `student_sales_analysis.ipynb`: Main notebook with data cleaning, EDA, visualizations & feature engineering
+- `Student_Sale.ipynb`: Main notebook with data cleaning, EDA, visualizations & feature engineering
 
 
 ## 🔍 What I Did
